@@ -29,7 +29,7 @@ Redash features:
 
 ## Supported Data Sources
 
-Redash supports more than 35 SQL and NoSQL [data sources](https://redash.io/help/data-sources/supported-data-sources). It can also be extended to support more. Below is a list of built-in sources:
+Redash supports more than 65 SQL and NoSQL [data sources](https://redash.io/help/data-sources/supported-data-sources). It can also be extended to support more. Below is a list of built-in sources:
 
 - Amazon Athena
 - Amazon CloudWatch / Insights
